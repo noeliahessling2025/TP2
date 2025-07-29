@@ -4,3 +4,11 @@ h1 {text-decoration: underline;}
     background-color: lightblue;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.contenedorFlex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
